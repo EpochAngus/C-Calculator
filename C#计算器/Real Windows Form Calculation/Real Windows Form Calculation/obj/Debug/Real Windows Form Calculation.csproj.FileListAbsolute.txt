@@ -1,0 +1,21 @@
+C:\Users\Michael Zhang\Desktop\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\Real Windows Form Calculation.exe.config
+C:\Users\Michael Zhang\Desktop\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\Real Windows Form Calculation.exe
+C:\Users\Michael Zhang\Desktop\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\Real Windows Form Calculation.pdb
+C:\Users\Michael Zhang\Desktop\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.csprojResolveAssemblyReference.cache
+C:\Users\Michael Zhang\Desktop\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real_Windows_Form_Calculation.Properties.Resources.resources
+C:\Users\Michael Zhang\Desktop\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.csproj.GenerateResource.Cache
+C:\Users\Michael Zhang\Desktop\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.exe
+C:\Users\Michael Zhang\Desktop\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.pdb
+C:\Users\Michael Zhang\Desktop\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real_Windows_Form_Calculation.Form1.resources
+F:\代码及杂项 勿动\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\Real Windows Form Calculation.exe.config
+F:\代码及杂项 勿动\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.exe
+F:\代码及杂项 勿动\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.pdb
+F:\代码及杂项 勿动\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\Real Windows Form Calculation.exe
+F:\代码及杂项 勿动\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\Real Windows Form Calculation.pdb
+F:\代码及杂项 勿动\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.csprojResolveAssemblyReference.cache
+F:\代码及杂项 勿动\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real_Windows_Form_Calculation.Form1.resources
+F:\代码及杂项 勿动\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real_Windows_Form_Calculation.Properties.Resources.resources
+F:\代码及杂项 勿动\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.csproj.GenerateResource.Cache
+F:\代码及杂项 勿动\C#计算器完整版\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\Real Windows Form Calculation.exe.config
+F:\代码及杂项 勿动\C#计算器完整版\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.exe
+F:\代码及杂项 勿动\C#计算器完整版\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.pdb
