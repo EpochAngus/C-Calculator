@@ -20,4 +20,5 @@
 
 - 项目背景：大二数据结构课程的课程设计之一。
 - 项目地址：https://github.com/Michael-Zhang-Xian-Sen/C-Calculator
+- 应用下载地址：http://140.143.141.58/download/Calculator.exe
 
