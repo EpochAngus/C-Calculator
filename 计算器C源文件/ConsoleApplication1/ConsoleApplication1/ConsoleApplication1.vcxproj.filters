@@ -27,8 +27,5 @@
     <ClCompile Include="test2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="百度面试题 字符串.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

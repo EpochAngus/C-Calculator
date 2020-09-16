@@ -19,3 +19,12 @@ F:\代码及杂项 勿动\C#计算器\Real Windows Form Calculation\Real Windows
 F:\代码及杂项 勿动\C#计算器完整版\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\Real Windows Form Calculation.exe.config
 F:\代码及杂项 勿动\C#计算器完整版\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.exe
 F:\代码及杂项 勿动\C#计算器完整版\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.pdb
+C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\Calculation.exe.config
+C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\Calculation.exe
+C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\Calculation.pdb
+C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real_Windows_Form_Calculation.Form1.resources
+C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real_Windows_Form_Calculation.Properties.Resources.resources
+C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.csproj.GenerateResource.Cache
+C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Calculation.exe
+C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Calculation.pdb
+C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\bin\sub.dll
