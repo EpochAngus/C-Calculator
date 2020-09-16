@@ -28,3 +28,4 @@ C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Fo
 C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Calculation.exe
 C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Calculation.pdb
 C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\bin\Debug\bin\sub.dll
+C:\Users\Himory\Desktop\新建文件夹\C-Calculator\C#计算器\Real Windows Form Calculation\Real Windows Form Calculation\obj\Debug\Real Windows Form Calculation.csprojResolveAssemblyReference.cache
